@@ -7,10 +7,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(8, 80, 214);
     padding: 20px;
     font-size: 32px;
-    color: lime;
+    color: rgb(32, 21, 227);
 }
 
 .background {
