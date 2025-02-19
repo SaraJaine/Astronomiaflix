@@ -23,11 +23,11 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(50, 176, 207);
 }
 
 .video {
-    border: solid 2px lime;
+    border: solid 2px rgb(0, 26, 255);
 }
 
 .chamada-texto {
